@@ -5,4 +5,4 @@ Created a randomized password generator to pull from a variety of symbols, optio
 
 ![Screenshot of Portfolio Website](Assets/PWGenerator.png)
 
-Deployed link: [Deployed application] (
+Deployed link: [Deployed application] (https://seanrashby.github.io/PW-Generator-/)
